@@ -49,7 +49,7 @@ You need to set development environment by foloowing this link (React Native CLI
 
 Testing Video:  <br>
 
-https://github.com/JinDev627/RN-EthWallet/blob/main/testing-ios.mp4
+https://youtu.be/H2AbVe33PJQ
 
 
 
