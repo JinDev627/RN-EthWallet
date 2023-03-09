@@ -1,14 +1,17 @@
 # RN-EthWallet
 
 <b> Explanation how to retrieve, store and handle any sensitive key <b>
+
 1. Using JWT token is general way to keep key as security.
 2. Add expired time.
 3. Exchange data to generate JWT token as irregularly.
 4. Encrypt database.
 
 
-<b> Publishing a crypto wallet app onto the App Store <b>
-Here are the steps you'll need to take:
+<b> Publishing a crypto wallet app onto the App Store <b> <br>
+
+Here are the steps you'll need to take:<br>
+
 1. Create an Apple Developer Account.
 2. Create an App Store Connect account.
 3. Create an App Store listing for your app.
@@ -18,15 +21,19 @@ Here are the steps you'll need to take:
 You need Business developer account to publish your crypto wallet application.
 
 <b> Publishing a crypto wallet app onto the Google Play Store <b>
-Here are the steps to publish a crypto wallet app onto the Google Play Store:
+
+Here are the steps to publish a crypto wallet app onto the Google Play Store: <br>
+
 1. Create a Google Play Developer account.
 2. Prepare your app for release. This includes creating an APK file, setting up a store listing, and creating a content rating.
 3. Upload your app to the Google Play Developer Console.
 4. Test your app.
 5. Publish your app.
 
-<b> The way to build source code <b>
-https://reactnative.dev/docs/environment-setup
+<b> The way to build source code <b> <br>
+
+https://reactnative.dev/docs/environment-setup <br>
+
 You need to set development environment by foloowing this link (React Native CLI Quickstart)
 
 - npm install
@@ -39,6 +46,10 @@ You need to set development environment by foloowing this link (React Native CLI
     - pos install
     - cd ..
     - react-native run-android
+
+Testing Video:  <br>
+
+https://github.com/JinDev627/RN-EthWallet/blob/main/testing-ios.mp4
 
 
 
